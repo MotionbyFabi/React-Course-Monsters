@@ -2,7 +2,7 @@
   "name": "react-course",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://motionbyfabi.github.io/ReactCourse-Monsters",
+  "homepage": "https://motionbyfabi.github.io/React-Course-Monsters",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
